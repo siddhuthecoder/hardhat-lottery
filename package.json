@@ -19,5 +19,9 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "hardhat-shorthand": "^1.0.0"
   }
 }
