@@ -1,0 +1,23 @@
+{
+  "name": "hardhat-lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhuthecoder/hardhat-lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhuthecoder/hardhat-lottery/issues"
+  },
+  "homepage": "https://github.com/siddhuthecoder/hardhat-lottery#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  }
+}
